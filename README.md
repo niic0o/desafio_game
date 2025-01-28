@@ -1,4 +1,4 @@
-# Mi Minijuego
+# Adivina El Número Secreto
 ===============
 
 ### Objetivo del juego
